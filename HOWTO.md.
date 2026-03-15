@@ -1,0 +1,3 @@
+Activity 3:Robustness
+ describtion:Added dynamic input using Scanner
+exceptions:Used numberformatexception to catch errors if a user types letters for a price
